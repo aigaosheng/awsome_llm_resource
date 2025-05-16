@@ -6,7 +6,7 @@ A curated list of open-source and free tools to train, serve, benchmark, and int
 
 ## 🔧 Transformer Lab — Open Source LLM Toolkit
 
-**Transformer Lab** [link](https://github.com/transformerlab/transformerlab-app) is a fully open-source toolkit for working with Large Language Models (LLMs).  
+[**Transformer Lab*](https://github.com/transformerlab/transformerlab-app) is a fully open-source toolkit for working with Large Language Models (LLMs).  
 You can use it to:
 - Train LLMs  
 - Fine-tune them  
