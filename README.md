@@ -16,7 +16,7 @@ You can use it to:
 
 ## 🎓 STORM (by Stanford University)
 
-**STORM** is a free AI tool developed by Stanford University for researchers.  
+[**STORM**](https://github.com/stanford-oval/storm) is a free AI tool developed by Stanford University for researchers.  
 It can:
 - Generate Wikipedia-quality reports  
 - Deliver 99% accuracy  
@@ -24,7 +24,7 @@ It can:
 
 ---
 
-## 🌐 LLMs.txt Generator
+## 🌐 [LLMs.txt Generator](https://github.com/AnswerDotAI/llms-txt)
 
 Transform any website into a `llm.txt` file with a simple trick:
 - Just prepend `llmstxt.new` to any URL  
