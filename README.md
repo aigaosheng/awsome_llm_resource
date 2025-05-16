@@ -4,9 +4,9 @@ A curated list of open-source and free tools to train, serve, benchmark, and int
 
 ---
 
-## 🔧 Transformer Lab — Open Source LLM Toolkit
+## 🔧 [Transformer Lab](https://github.com/transformerlab/transformerlab-app)  — Open Source LLM Toolkit
 
-[**Transformer Lab**](https://github.com/transformerlab/transformerlab-app) is a fully open-source toolkit for working with Large Language Models (LLMs).  
+**Transformer Lab** is a fully open-source toolkit for working with Large Language Models (LLMs).  
 You can use it to:
 - Train LLMs  
 - Fine-tune them  
@@ -40,7 +40,7 @@ Transform any website into a `llm.txt` file with a simple trick:
 
 ---
 
-## 📊 YourBench
+## 📊 [YourBench](https://github.com/huggingface/yourbench)
 
 **YourBench** is an open-source benchmarking framework for LLMs.  
 It enables:
@@ -50,7 +50,7 @@ It enables:
 
 ---
 
-## 🔌 LiteLLM
+## 🔌 [LiteLLM](https://github.com/BerriAI/litellm)
 
 **LiteLLM** provides a unified API to call various LLM providers using the OpenAI format.  
 Supports:
@@ -64,7 +64,7 @@ Supports:
 
 ---
 
-## ⚙️ LoRAX (Multi-LoRA eXchange)
+## ⚙️ [LoRAX](https://github.com/predibase/lorax) (Multi-LoRA eXchange)
 
 **LoRAX** is a high-efficiency serving framework for fine-tuned models.  
 Key features:
@@ -73,7 +73,3 @@ Key features:
 - Greatly reduce serving costs
 
 ---
-
-## 📝 License
-
-This README lists tools that are either open-source or free for research purposes. Each tool is subject to its own license.
