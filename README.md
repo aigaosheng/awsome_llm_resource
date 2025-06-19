@@ -73,8 +73,8 @@ Key features:
 - Greatly reduce serving costs
 
 ---
-## [Easily fine-tune 100+ large language models with zero-code CLI and Web UI](https://github.com/hiyouga/LLaMA-Factory)
+## 🌐 [Easily fine-tune 100+ large language models with zero-code CLI and Web UI](https://github.com/hiyouga/LLaMA-Factory)
 
 ---
-## [AM-RADIO is a framework to distill Large Vision Foundation models into a single one](https://github.com/NVlabs/RADIO)
+## 🌐 [AM-RADIO is a framework to distill Large Vision Foundation models into a single one](https://github.com/NVlabs/RADIO)
 - RADIO, a new vision foundation model, excels across visual domains, serving as a superior replacement for vision backbones. Integrating CLIP variants, DINOv2, and SAM through distillation, it preserves unique features like text grounding and segmentation correspondence. Outperforming teachers in ImageNet zero-shot (+6.8%), kNN (+2.39%), and linear probing segmentation (+3.8%) and vision-language models (LLaVa 1.5 up to 1.5%), it scales to any resolution, supports non-square images. We offer an efficient variant, E-RADIO, which achieves is 6-10x faster than CLIP and DINOv2.
